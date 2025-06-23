@@ -1,7 +1,7 @@
 1
-2
+Changed line 2 in folder2
 Modified line 3 in firstFile.txt
-4
+Changed line 4 in folder2
 Modified line 5 in firstFile.txt
 6
 Modified line 7 in firstFile.txt
