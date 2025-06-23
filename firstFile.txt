@@ -1,8 +1,8 @@
 1
 2
-3
+Modified line 3 in firstFile.txt
 4
-5
+Modified line 5 in firstFile.txt
 6
 7
 8
