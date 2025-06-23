@@ -3,8 +3,8 @@
 Modified line 3 in firstFile.txt
 4
 Modified line 5 in firstFile.txt
-6
+Changed line 6 in folder1
 Modified line 7 in firstFile.txt
-8
+Changed line 8 in folder1
 Modified line 9 in firstFile.txt
 10
